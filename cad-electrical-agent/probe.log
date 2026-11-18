@@ -1,0 +1,108 @@
+   Compiling cad-electrical-agent v0.1.0 (D:\AgentRust\cad-electrical-agent)
+    Finished `test` profile [unoptimized + debuginfo] target(s) in 10.79s
+     Running unittests src\lib.rs (D:\AgentRust\spike-dxf-engine\target\debug\deps\acad_mcp-29d1d6ed666e3b86.exe)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src\main.rs (D:\AgentRust\spike-dxf-engine\target\debug\deps\acad_mcp-5c6aea9b5556bd55.exe)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests\drawing_test.rs (D:\AgentRust\spike-dxf-engine\target\debug\deps\drawing_test-8a5f2d84d14a58bb.exe)
+
+running 1 test
+=== INSERT 按图层分布 (top 30) ===
+  EQUIP-照明 = 2017
+  EQUIP-消防 = 1545
+  EQUIP-插座 = 1107
+  LWIRE = 1008
+  SHTLN = 792
+  ELEMENT = 652
+  EQUIP-箱柜 = 604
+  EQUIP-通讯 = 573
+  0 = 537
+  TERM = 474
+  P-平面-活动家具 = 462
+  fur = 455
+  VRV-EQUIP = 268
+  EQUIP-动力 = 160
+  VC_设备编号 = 145
+  AXIS = 139
+  car = 95
+  EQUIP-安防 = 81
+  TEL_CABINET = 78
+  VC_设备 = 65
+  填充 = 65
+  WIRE-母线 = 61
+  D-EQPM-WEAK = 57
+  EX-07-XT(xf)$0$EQUIP-通讯 = 50
+  家具 = 48
+  TEL_TAB = 45
+  SIG_TEXT = 40
+  TEL_DIM = 24
+  TEL_TEXT = 24
+  PUB_TEXT = 18
+=== 属性 tag 全集 (13 个) ===
+  TAG: $TEXT$
+  TAG: A
+  TAG: B
+  TAG: GROUP
+  TAG: NAME
+  TAG: REMARK
+  TAG: S
+  TAG: TD
+  TAG: 产品名称
+  TAG: 品牌
+  TAG: 型号
+  TAG: 版权
+  TAG: 规格
+=== EQUIP/WIRE/设备 图层 insert 样本（每层前3）===
+  [EQUIP-箱柜] block=$equip$00002943 attrs={"A": "照明配电箱", "REMARK": ""}
+  [EQUIP-箱柜] block=$equip$00002943 attrs={"A": "照明配电箱", "REMARK": ""}
+  [EQUIP-箱柜] block=$equip$00002943 attrs={"A": "照明配电箱", "REMARK": ""}
+  [EQUIP-插座] block=$equip_U$00000076(PC-20210912UKVE) attrs={"A": "安全型五孔插座", "REMARK": ""}
+  [EQUIP-插座] block=$equip_U$00000076(PC-20210912UKVE) attrs={"A": "安全型五孔插座", "REMARK": ""}
+  [EQUIP-插座] block=$equip_U$00000076(PC-20210912UKVE) attrs={"A": "安全型五孔插座", "REMARK": ""}
+  [EQUIP-照明] block=$equip$00002726 attrs={"A": "双管格栅灯", "REMARK": ""}
+  [EQUIP-照明] block=$equip$00002726 attrs={"A": "双管格栅灯", "REMARK": ""}
+  [EQUIP-照明] block=$equip$00002726 attrs={"A": "双管格栅灯", "REMARK": ""}
+  [EQUIP-消防] block=$Equip$00002649 attrs={"A": "感烟火灾探测器", "B": "1"}
+  [EQUIP-消防] block=$Equip$00002649 attrs={"A": "感烟火灾探测器", "B": "1"}
+  [EQUIP-消防] block=$Equip$00002649 attrs={"A": "感烟火灾探测器", "B": "1"}
+  [EQUIP-安防] block=$equip$00002964 attrs={"A": "摄像机", "REMARK": ""}
+  [EQUIP-安防] block=$equip$00002964 attrs={"A": "摄像机", "REMARK": ""}
+  [EQUIP-安防] block=$equip$00002964 attrs={"A": "摄像机", "REMARK": ""}
+  [EQUIP-通讯] block=$equip$00002670 attrs={"$TEXT$": "TD", "A": "数据插座"}
+  [EQUIP-通讯] block=$equip$00002670 attrs={"$TEXT$": "TD", "A": "数据插座"}
+  [EQUIP-通讯] block=$equip$00002670 attrs={"$TEXT$": "TD", "A": "数据插座"}
+  [EQUIP-动力] block=$equip$00002612 attrs={"A": "接地"}
+  [EQUIP-动力] block=$equip$00002612 attrs={"A": "接地"}
+  [EQUIP-动力] block=$equip$00001811 attrs={"$TEXT$": "M", "A": "交流电动机"}
+  [D_E_Eqpm（强电设备）] block=高压进线馈线柜 attrs={}
+  [D_E_Eqpm（强电设备）] block=高压进线馈线柜 attrs={}
+  [D_E_Eqpm（强电设备）] block=高压进线馈线柜 attrs={}
+  [WIRE-母线] block=$LoopLib$00000347 attrs={}
+  [WIRE-母线] block=$LoopLib$00000347 attrs={}
+  [WIRE-母线] block=$LoopLib$00000347 attrs={}
+  [EQUIP] block=M_Z3 attrs={"A": "照明配电箱"}
+  [EQUIP] block=M_Z0 attrs={"A": "电气柜"}
+  [EQUIP] block=M_Z1 attrs={"A": "配电箱"}
+  [EQUIP-楼控] block=$equip$00002286 attrs={"$TEXT$": "MEB", "A": "压差传感器"}
+  [EQUIP-楼控] block=$equip$00002286 attrs={"$TEXT$": "LEB", "A": "压差传感器"}
+  [EQUIP-应急] block=$equip$00002534 attrs={"$TEXT$": "E", "A": "疏散出口标志灯"}
+  [EQUIP-应急] block=$equip$00002534 attrs={"$TEXT$": "E", "A": "疏散出口标志灯"}
+  [EQUIP-应急] block=$equip$00002541 attrs={"A": "方向标志灯(左向)"}
+  [VC_设备] block=CJT_4752 attrs={"产品名称": "挂墙单星洗手池", "品牌": "通用图库", "型号": "custom", "版权": "http://www.weichu3d.com/", "规格": "500*450*530"}
+  [VC_设备] block=CJT_5200 attrs={"产品名称": "烘手机", "品牌": "通用图库", "版权": "http://www.weichu3d.com/", "规格": "200*160*300"}
+  [VC_设备] block=CJT_4752 attrs={"产品名称": "挂墙单星洗手池", "品牌": "通用图库", "型号": "custom", "版权": "http://www.weichu3d.com/", "规格": "500*450*530"}
+  [VC_设备编号] block=ws_胶囊_编号 attrs={"GROUP": "AA01"}
+  [VC_设备编号] block=ws_胶囊_编号 attrs={"GROUP": "AA02"}
+  [VC_设备编号] block=ws_胶囊_编号 attrs={"GROUP": "AA03"}
+test asset_data_probe ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 2 filtered out; finished in 2.28s
+

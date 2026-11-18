@@ -1,0 +1,20 @@
+# Rust 构建产物
+target/
+
+# 临时与审查产物
+.tmp/
+.screenshots/
+
+# 图纸与转换产物（大文件不入库）
+*.dwg
+*.dxf
+_recon/
+dumps/
+*.xlsx
+
+# 压缩包
+*.rar
+
+# 编辑器
+.vscode/
+.idea/

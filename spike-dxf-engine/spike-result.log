@@ -1,0 +1,60 @@
+
+=== D:/AI/cad/workbuddy/A鏍?~4F鏆栭€氭柦宸ュ浘.dwg ===
+elapsed_ms: 659
+source_version: AC1032
+source_format: Some(Dwg)
+stream_completed: true
+has_usable_drawing_data: true
+source_sections: 2
+source_records: 45364
+decoded_source_records: 42128
+skipped_source_records: 4
+output_entities: 33337
+output_objects: 5693
+output_table_records: 1428
+recovered_errors: 4
+diagnostics_count: 4
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(923371), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(329224), record_type: Some("38"), message: "Invalid record at handle 0x50608, type_code=38: Parse error: Truncated DWG stream at bit 89521: requested 64 bits, 33 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(974814), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(329686), record_type: Some("38"), message: "Invalid record at handle 0x507D6, type_code=38: Parse error: Truncated DWG stream at bit 89511: requested 64 bits, 43 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(986570), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(329691), record_type: Some("38"), message: "Invalid record at handle 0x507DB, type_code=38: Parse error: Truncated DWG stream at bit 89891: requested 64 bits, 47 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(1004706), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(329783), record_type: Some("38"), message: "Invalid record at handle 0x50837, type_code=38: Parse error: Truncated DWG stream at bit 89889: requested 64 bits, 49 remain" }
+
+=== D:/AI/cad/workbuddy/C鏍?~2F鍥芥闆嗗洟瀹為獙瀹ゆ殩閫氭柦宸ュ浘.dwg ===
+elapsed_ms: 571
+source_version: AC1032
+source_format: Some(Dwg)
+stream_completed: true
+has_usable_drawing_data: true
+source_sections: 2
+source_records: 33709
+decoded_source_records: 31404
+skipped_source_records: 4
+output_entities: 26465
+output_objects: 3108
+output_table_records: 993
+recovered_errors: 4
+diagnostics_count: 4
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(995259), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(844091), record_type: Some("38"), message: "Invalid record at handle 0xCE13B, type_code=38: Parse error: Truncated DWG stream at bit 89507: requested 64 bits, 47 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(1046734), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(844553), record_type: Some("38"), message: "Invalid record at handle 0xCE309, type_code=38: Parse error: Truncated DWG stream at bit 89515: requested 64 bits, 39 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(1058490), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(844558), record_type: Some("38"), message: "Invalid record at handle 0xCE30E, type_code=38: Parse error: Truncated DWG stream at bit 89905: requested 64 bits, 33 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(1076626), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(844650), record_type: Some("38"), message: "Invalid record at handle 0xCE36A, type_code=38: Parse error: Truncated DWG stream at bit 89893: requested 64 bits, 45 remain" }
+
+=== D:/AI/cad/workbuddy/D鏍?F寰峰北琛ㄤ笟鏆栭€氭柦宸ュ浘.dwg ===
+elapsed_ms: 389
+source_version: AC1032
+source_format: Some(Dwg)
+stream_completed: true
+has_usable_drawing_data: true
+source_sections: 2
+source_records: 23935
+decoded_source_records: 21845
+skipped_source_records: 4
+output_entities: 18400
+output_objects: 1992
+output_table_records: 755
+recovered_errors: 4
+diagnostics_count: 4
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(1258874), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(333010), record_type: Some("38"), message: "Invalid record at handle 0x514D2, type_code=38: Parse error: Truncated DWG stream at bit 89505: requested 64 bits, 49 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(1310298), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(333472), record_type: Some("38"), message: "Invalid record at handle 0x516A0, type_code=38: Parse error: Truncated DWG stream at bit 89499: requested 64 bits, 55 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(1322054), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(333477), record_type: Some("38"), message: "Invalid record at handle 0x516A5, type_code=38: Parse error: Truncated DWG stream at bit 89891: requested 64 bits, 47 remain" }
+  DIAG: ReadDiagnostic { code: "record-decode-failed", stage: RecordStream, section: Some("AcDb:AcDbObjects"), source_offset: Some(1340190), source_offset_basis: Some("object-section-byte"), source_line: None, record_handle: Some(333569), record_type: Some("38"), message: "Invalid record at handle 0x51701, type_code=38: Parse error: Truncated DWG stream at bit 89889: requested 64 bits, 49 remain" }

@@ -1,0 +1,33 @@
+[package]
+name = "cad-electrical-agent"
+version = "0.1.0"
+edition = "2021"
+description = "CAD 电气深化设计 Agent — 自研 Rust MCP server（acad-mcp）"
+
+[lib]
+name = "acad_mcp"
+path = "src/lib.rs"
+
+[[bin]]
+name = "acad-mcp"
+path = "src/main.rs"
+
+[dependencies]
+# DXF/DWG 引擎：spike 实测裁定（AC1018/AC1032 原生读取、代理实体 dxf_name 保留、代码页正确）
+acadrust = { version = "0.6", default-features = false }
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+anyhow = "1"
+regex = "1"
+rust_xlsxwriter = "0.79"
+
+# M1 Task5 MCP server
+rmcp = { version = "3.10", features = ["server", "macros", "transport-io"] }
+schemars = "0.8"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "io-std", "io-util"] }
+
+[dev-dependencies]
+# 真实样本集成测试经 env CAD_FIXTURE_DWG 门控
+calamine = "0.38"
+tempfile = "3"

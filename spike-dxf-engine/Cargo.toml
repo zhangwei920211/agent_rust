@@ -1,0 +1,11 @@
+[package]
+name = "spike-dxf-engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+acadrust = { version = "0.6", default-features = false }
+serde_json = "1"
+
+[profile.release]
+debug = false

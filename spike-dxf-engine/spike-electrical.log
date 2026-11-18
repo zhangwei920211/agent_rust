@@ -1,0 +1,64 @@
+
+=== D:/微信文件/xwechat_files/wxid_yzv5spffpwta22_f83f/msg/file/2026-03/雁能1#-电气施工图 - 无人防版.dwg ===
+elapsed_ms: 2153
+source_version: AC1018 | stream_completed: true | usable: true
+source_records: 141845 | decoded: 118590 | skipped: 0 | recovered_errors: 0
+output_entities: 107087 | output_objects: 9363 | output_table_records: 1002
+entities_iterated: 107087
+-- entity_type histogram (top 20) --
+  LINE = 39193
+  TEXT = 15943
+  LWPOLYLINE = 14188
+  SPLINE = 12499
+  INSERT = 12059
+  ARC = 5323
+  UNKNOWN = 4205
+  POINT = 1186
+  CIRCLE = 540
+  ELLIPSE = 493
+  ATTDEF = 426
+  SOLID = 237
+  LEADER = 179
+  MTEXT = 157
+  3DFACE = 152
+  HATCH = 116
+  POLYLINE = 116
+  DIMENSION_LINEAR = 54
+  DIMENSION_ALIGNED = 12
+  DIMENSION_ANGULAR_3POINT = 6
+PROXY_TOTAL: 0
+-- proxy-related keys --
+layers: 241 | cjk_layers: 131
+-- layer sample (first 15) --
+  L: 0
+  L: ASHADE
+  L: EQUIP-箱柜
+  L: EQUIP-插座
+  L: EQUIP-照明
+  L: LWIRE
+  L: EQUIP-消防
+  L: EQUIP-安防
+  L: EQUIP-通讯
+  L: E-电气标注
+  L: WIRE-系统
+  L: ELEMENT
+  L: WIRE-母线
+  L: EQUIP-动力
+  L: SIG_TEXT
+block_records: 569 | cjk_blocks: 23
+-- block sample (first 15) --
+  B: *MODEL_SPACE
+  B: AR3_INFO
+  B: AVE_RENDER
+  B: AVE_GLOBAL
+  B: $equip$00002943
+  B: *X53
+  B: $equip$00002942
+  B: $equip_U$00000076(PC-20210912UKVE)
+  B: $equip_U$00000076(PC-20210912UKVE)_M
+  B: $equip$00003155
+  B: $equip$00002726
+  B: $equip$00002825
+  B: $equip$00001964
+  B: $equip$00001963
+  B: $equip$00002725

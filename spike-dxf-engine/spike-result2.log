@@ -1,0 +1,183 @@
+
+=== D:/AI/cad/workbuddy/A鏍?~4F鏆栭€氭柦宸ュ浘.dwg ===
+elapsed_ms: 722
+source_version: AC1032 | stream_completed: true | usable: true
+source_records: 45364 | decoded: 42128 | skipped: 4 | recovered_errors: 4
+output_entities: 33337 | output_objects: 5693 | output_table_records: 1428
+entities_iterated: 33337
+-- entity_type histogram (top 20) --
+  LINE = 20757
+  INSERT = 3587
+  TEXT = 1917
+  LWPOLYLINE = 1841
+  POINT = 1415
+  ARC = 1197
+  CIRCLE = 557
+  MTEXT = 547
+  HATCH = 452
+  SPLINE = 423
+  DIMENSION_LINEAR = 165
+  ELLIPSE = 122
+  DIMENSION_ALIGNED = 121
+  POLYLINE = 99
+  BODY = 36
+  LEADER = 30
+  WIPEOUT = 18
+  SOLID = 14
+  EXTENDED_ENTITY = 11
+  REGION = 10
+PROXY_TOTAL: 0
+-- proxy-related keys --
+layers: 310 | cjk_layers: 240
+-- layer sample (first 15) --
+  L: 0
+  L: Defpoints
+  L: DIM_SYMB
+  L: PUB_TITLE
+  L: FC-BHATCH鍦伴潰杞粨绾?  L: PUB_TEXT
+  L: N_NOTE(璇存槑鏂囧瓧)
+  L: F-TEXT
+  L: N_FQCA_DIAM(澶氳仈鏈烘爣娉?
+  L: ACS_DLJ_SNJ
+  L: N_SUPL_FLAN(閫侀娉曞叞)
+  L: 鏆栭€歘閫侀_椋庡彛
+  L: ACS_DLJ_SWJ
+  L: 瀹ゅ鏈?  L: ACS_DLJ_SBBZ
+block_records: 835 | cjk_blocks: 98
+-- block sample (first 15) --
+  B: *Model_Space
+  B: _ArchTick
+  B: *Paper_Space
+  B: MDV-D28锝?40Q4$(S)(D)N1-C
+  B: 椋庡彛_椋庡彛_鍗曞眰娲诲姩鐧惧彾椋庡彛(2D)
+  B: MDV-D80锝?12T2$(D)N1-C
+  B: MDV-670W-D2SN1-8X1
+  B: A$C61E561FA
+  B: A$C6FE40179
+  B: A$C6DFE7444
+  B: A$C095E6591
+  B: A$C38B45E1B
+  B: *U10
+  B: *U11
+  B: A$C327F496B
+
+=== D:/AI/cad/workbuddy/C鏍?~2F鍥芥闆嗗洟瀹為獙瀹ゆ殩閫氭柦宸ュ浘.dwg ===
+elapsed_ms: 630
+source_version: AC1032 | stream_completed: true | usable: true
+source_records: 33709 | decoded: 31404 | skipped: 4 | recovered_errors: 4
+output_entities: 26465 | output_objects: 3108 | output_table_records: 993
+entities_iterated: 26465
+-- entity_type histogram (top 20) --
+  LINE = 17103
+  LWPOLYLINE = 2293
+  TEXT = 1242
+  ARC = 1099
+  INSERT = 1060
+  SPLINE = 825
+  ELLIPSE = 771
+  POINT = 520
+  CIRCLE = 375
+  EXTENDED_ENTITY = 291
+  HATCH = 284
+  MTEXT = 242
+  DIMENSION_ALIGNED = 96
+  POLYLINE = 95
+  LEADER = 51
+  BODY = 36
+  SOLID = 29
+  DIMENSION_LINEAR = 22
+  REGION = 10
+  ATTDEF = 8
+PROXY_TOTAL: 0
+-- proxy-related keys --
+layers: 233 | cjk_layers: 159
+-- layer sample (first 15) --
+  L: 0
+  L: Defpoints
+  L: DIM_SYMB
+  L: PUB_TITLE
+  L: 鍥剧
+  L: A-鐮栧
+  L: PUB_TEXT
+  L: BB1銆愭枃瀛椼€慔DD
+  L: 瀹跺叿鍐呯嚎
+  L: 澶╄姳鏋勯€犵嚎
+  L: 鎵ｆ澘鐏?  L: TD鈼?1銆愬ぉ鑺辩伅鍏枫€?  L: T鈼?0.2銆愭殫钘忕伅甯︺€慉SD
+  L: !PboGS-Blip
+  L: 闃查浘鐏?block_records: 419 | cjk_blocks: 61
+-- block sample (first 15) --
+  B: *Model_Space
+  B: _ArchTick
+  B: !PYH_DIM.ARCHTICK
+  B: A$C1CE554B1
+  B: *Paper_Space
+  B: fgjnhgkk
+  B: A$C21DC39D8
+  B: 鍦嗗舰绛掔伅
+  B: FDHGFJJ
+  B: fhgjj
+  B: !璧€濇繁鍖朆LIP-MT_blkSC
+  B: *U9
+  B: fdhfgjjk
+  B: MDV-D63~71T2$(D)N1-C3
+  B: A$C61E561FA
+
+=== D:/AI/cad/workbuddy/D鏍?F寰峰北琛ㄤ笟鏆栭€氭柦宸ュ浘.dwg ===
+elapsed_ms: 401
+source_version: AC1032 | stream_completed: true | usable: true
+source_records: 23935 | decoded: 21845 | skipped: 4 | recovered_errors: 4
+output_entities: 18400 | output_objects: 1992 | output_table_records: 755
+entities_iterated: 18400
+-- entity_type histogram (top 20) --
+  LINE = 12596
+  LWPOLYLINE = 1053
+  ARC = 986
+  INSERT = 684
+  TEXT = 621
+  POINT = 522
+  SPLINE = 437
+  HATCH = 398
+  CIRCLE = 311
+  ELLIPSE = 222
+  MTEXT = 207
+  POLYLINE = 111
+  DIMENSION_LINEAR = 102
+  DIMENSION_ALIGNED = 42
+  BODY = 36
+  LEADER = 28
+  EXTENDED_ENTITY = 12
+  REGION = 10
+  SOLID = 10
+  OLE2FRAME = 6
+PROXY_TOTAL: 0
+-- proxy-related keys --
+layers: 181 | cjk_layers: 126
+-- layer sample (first 15) --
+  L: 0
+  L: J-WALL-澧欎綋
+  L: A-骞抽潰妤兼
+  L: A-骞抽潰缁嗙嚎
+  L: A-鏍忔潌鎵舵墜
+  L: A-鐢垫
+  L: A-骞抽潰閫犲瀷绾胯剼绾?  L: A-鍦伴潰鍜屾暎姘?  L: A-缁欐帓姘寸暀娲?  L: A-绔嬮潰-鏅€氱嚎
+  L: A-鍘ㄥ崼甯冪疆
+  L: A-鍗敓娲佸叿銆侀殧鏂?  L: A-瀹跺叿
+  L: A-鐮栧
+  L: WALL
+block_records: 349 | cjk_blocks: 43
+-- block sample (first 15) --
+  B: *Model_Space
+  B: 闆嗘按浜旳
+  B: $lvtry$00000171
+  B: $DorLib2D$00000002
+  B: $DorLib2D$00000116
+  B: $DORLIB2D$00000127
+  B: $DorLib2D$00000213
+  B: $TwtSys$00000434
+  B: $TwtSys$00000132
+  B: $VALVE$00000547
+  B: 鏌滃瓙_0729102439
+  B: !PYH_DIM.ARCHTICK
+  B: _ArchTick
+  B: A$C71C5597C
+  B: A$C1CE554B1

@@ -1,0 +1,5 @@
+   Compiling spike-dxf-engine v0.1.0 (D:\AgentRust\spike-dxf-engine)
+warning: error deleting lock file for incremental compilation session directory `\\?\D:\AgentRust\spike-dxf-engine\target\debug\incremental\spike_dxf_engine-06ruxj9ypka96\s-ho8t56kbsx-0ydvqtf.lock`: 鎷掔粷璁块棶銆?(os error 5)
+
+warning: `spike-dxf-engine` (bin "spike-dxf-engine") generated 1 warning
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 6.35s

@@ -1,0 +1,29 @@
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+running 3 tests
+real_sample_register_xlsx_roundtrip --- FAILED
+..
+failures:
+
+---- real_sample_register_xlsx_roundtrip stdout ----
+
+thread 'real_sample_register_xlsx_roundtrip' (25124) panicked at tests\asset_test.rs:64:9:
+缂哄皯 CAD_FIXTURE_DWG锛氱湡瀹炴牱鍥鹃泦鎴愭祴璇曞繀椤绘彁渚涙牱鏈矾寰勶紙AC1018 鐢垫皵鍥撅級
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+
+failures:
+    real_sample_register_xlsx_roundtrip
+
+test result: FAILED. 2 passed; 1 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+error: test failed, to rerun pass `--test asset_test`
